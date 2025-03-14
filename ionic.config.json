@@ -1,0 +1,8 @@
+{
+  "name": "clicker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "0ddbec16"
+}
